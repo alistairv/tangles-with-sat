@@ -1,0 +1,5 @@
+Computing variance of donkey3 through 20 repetitions...
+Variance of the iterative approach was 1443.2875.
+The times were as follows: 328, 292, 333, 363, 271, 399, 351, 316, 302, 267, 328, 309, 355, 290, 234, 349, 300, 268, 328, 322
+Variance of the binary search approach was 1610.5475000000001.
+The times were as follows: 311, 331, 434, 349, 323, 407, 398, 356, 294, 349, 342, 301, 313, 269, 297, 328, 300, 317, 366, 336

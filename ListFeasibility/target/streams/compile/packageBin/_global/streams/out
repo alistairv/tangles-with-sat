@@ -1,0 +1,25 @@
+[debug] Packaging C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\scala3-simple_3-0.1.0.jar ...
+[debug] Input file mappings:
+[debug] 	code
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code
+[debug] 	code\main.class
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code\main.class
+[debug] 	code\main.tasty
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code\main.tasty
+[debug] 	code\Reader.class
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code\Reader.class
+[debug] 	code\Reader.tasty
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code\Reader.tasty
+[debug] 	code\Variable$.class
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code\Variable$.class
+[debug] 	code\Variable$package$.class
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code\Variable$package$.class
+[debug] 	code\Variable$package.class
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code\Variable$package.class
+[debug] 	code\Variable$package.tasty
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code\Variable$package.tasty
+[debug] 	code\Variable.class
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code\Variable.class
+[debug] 	code\Variable.tasty
+[debug] 	  C:\Users\valis\Desktop\Studium\Master\WS21_22\Praktikum\ListFeasibility\target\scala-3.0.0\classes\code\Variable.tasty
+[debug] Done packaging.

@@ -1,0 +1,6 @@
+Target height: 18. Achieved height: 11. Time needed: 756ms.
+Target height: 10. Achieved height: 9. Time needed: 132ms.
+Target height: 8. Achieved height: -1. Time needed: 113ms.
+Target height: 18. Achieved height: 11. Time needed: 832ms.
+Target height: 10. Achieved height: 9. Time needed: 106ms.
+Target height: 8. Achieved height: -1. Time needed: 90ms.

@@ -1,0 +1,42 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[warn] No sbt.version set in project/build.properties, base directory: C:\Users\valis\Desktop\Studium\Master\SS21\FP_Sem\proj2\seminar\project
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.4.9 (Oracle Corporation Java 16.0.1)
+[debug] Load.defaultLoad until apply took 617.2878ms
+[debug]     Load.loadUnit: plugins took 372.5272ms
+[debug]     Load.loadUnit: defsScala took 0.8775ms
+[debug] [Loading] Scanning directory C:\Users\valis\Desktop\Studium\Master\SS21\FP_Sem\proj2\seminar\project
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\valis\Desktop\Studium\Master\SS21\FP_Sem\proj2\seminar\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(List(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin))), Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin))), Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin))), Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin))), Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 61.3968 ms
+[debug]         Load.resolveProject(project) took 188.2439ms
+[debug]       Load.loadTransitive: finalizeProject(Project(id project, base: C:\Users\valis\Desktop\Studium\Master\SS21\FP_Sem\proj2\seminar\project, plugins: List(<none>))) took 308.7984ms
+[debug] [Loading] Done in C:\Users\valis\Desktop\Studium\Master\SS21\FP_Sem\proj2\seminar\project, returning: (project)
+[debug]     Load.loadUnit: loadedProjectsRaw took 399.5297ms
+[debug]     Load.loadUnit: cleanEvalClasses took 0.6863ms
+[debug]   Load.loadUnit(file:/C:/Users/valis/Desktop/Studium/Master/SS21/FP_Sem/proj2/seminar/project/, ...) took 830.7302ms
+[debug] Load.apply: load took 1513.6961ms
+[debug] Load.apply: resolveProjects took 20.967ms
+[debug] Load.apply: finalTransforms took 179.4683ms
+[debug] Load.apply: config.delegates took 23.1972ms
+[debug] Load.apply: Def.make(settings)... took 4498.596ms
+[debug] Load.apply: structureIndex took 282.89ms
+[debug] Load.apply: mkStreams took 3.9389ms
+[info] set current project to project (in build file:/C:/Users/valis/Desktop/Studium/Master/SS21/FP_Sem/proj2/seminar/project/)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(notifyUsersAboutShell, None, None)
+[debug] > Exec(iflast shell, None, None)
+[debug] > Exec(shell, None, None)
+[info] sbt server started at local:sbt-server-29fc4ca3b25e6fbb4bb5
+[info] started sbt server
